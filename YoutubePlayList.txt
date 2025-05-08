@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=zYgOdafC1CA&list=PLhTNatMyGqo0z9eP4V3K4B1D39gvmoctA&index=4
+
+08.05.2025 - Phần 2: Hướng dẫn thực hành lấy dữ liệu dạng JSON bằng AJAX. 13:30
